@@ -1,5 +1,0 @@
-#documentation
-/input
-/images
-/output
-/input/data.txt
