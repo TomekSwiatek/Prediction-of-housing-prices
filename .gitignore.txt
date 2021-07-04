@@ -2,4 +2,4 @@
 /input
 /images
 /output
-data.txt
+/input/data.txt
