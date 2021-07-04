@@ -2,3 +2,4 @@
 /input
 /images
 /output
+data.txt
